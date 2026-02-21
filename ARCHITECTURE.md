@@ -1,8 +1,4 @@
----
-
-## `ARCHITECTURE.md`
-
-```md
+```md 
 # Architecture
 
 ## System Overview
@@ -126,3 +122,4 @@ LLM-generated labels provide human-interpretable topic names for clusters.
 - Two-level topic tree
 
 Outputs are stored in the `outputs/` directory.
+
