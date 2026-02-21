@@ -80,17 +80,18 @@ python -m src.part3_topic_tree
 
 ## Technologies Used
 
--Python
--Scikit-learn
--SentenceTransformers
--OpenAI API
--KMeans clustering
+- Python
+- Scikit-learn
+- SentenceTransformers
+- OpenAI API
+- KMeans clustering
 
 ---
 
 ## Key Findings
 
--TF-IDF + Linear SVM performs best for topic classification.
--Dense embeddings capture semantic similarity but may reduce performance on vocabulary-driven categories.
--Semantic clustering produces meaningful topic groupings.
+- TF-IDF + Linear SVM performs best for topic classification.
+- Dense embeddings capture semantic similarity but may reduce performance on vocabulary-driven categories.
+- Semantic clustering produces meaningful topic groupings.
+
 
